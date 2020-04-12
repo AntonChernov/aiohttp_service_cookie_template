@@ -8,8 +8,8 @@ cookiecutter https://github.com/AntonChernov/aiohttp_service_cookie_template.git
 
 "full_name": "Anton Chernov",
 "github_username": "AntonChernov",
-"app_name": "mygolangapiservice",
-"project_short_description": "Golang API service.",
+"app_name": "myaiohttpapiservice",
+"project_short_description": "Aiohttp API service.",
 
 
 NOTE: Please remember this template not finished and good only for lokal development(But maybe not so gud :) )
