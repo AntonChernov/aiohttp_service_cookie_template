@@ -12,5 +12,5 @@ cookiecutter https://github.com/AntonChernov/aiohttp_service_cookie_template.git
 "project_short_description": "Aiohttp API service.",
 
 
-NOTE: Please remember this template not finished and good only for lokal development(But maybe not so gud :) )
+NOTE: Please remember this template not finished and good only for local development(But maybe not so gud :) )
 If you want improve something Please fill free to fork and fix! 
